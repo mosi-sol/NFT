@@ -13,3 +13,13 @@ don`t use this repo on final product
 
 ##
 lessons 1 to 9 in a day by 4 hours in the live video.
+
+##
+<div>
+<span align="left"> 
+<a href="https://img.shields.io/github/license/mosi-sol/NFT" target="blank"><img src="https://img.shields.io/github/license/mosi-sol/NFT" alt="pafecafe" /></a> 
+</span>
+<span align="right"> 
+<a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2FNFT" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2FNFT" alt="pafecafe" /></a> 
+</span>
+</div>
