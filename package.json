@@ -1,1 +1,4 @@
 
+"publishConfig": {
+   "@mosi-sol:registry": "https://npm.pkg.github.com"
+ }
